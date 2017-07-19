@@ -1,0 +1,10 @@
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\bin\Debug\sifreleme.exe.config
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\bin\Debug\sifreleme.exe
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\bin\Debug\sifreleme.pdb
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.csprojResolveAssemblyReference.cache
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.Form1.resources
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.Form2.resources
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.Properties.Resources.resources
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.csproj.GenerateResource.Cache
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.exe
+c:\users\gokay\documents\visual studio 2015\Projects\sifreleme\sifreleme\obj\Debug\sifreleme.pdb
